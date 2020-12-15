@@ -1,0 +1,27 @@
+{
+   
+   "name":"mj",
+   
+   "age":"27",
+
+   "info":[
+      {
+         "contentid":"test_1_contentid",
+         "contenttypeid":"test_1_contenttypeid",
+         "max":"test_1_max",
+         "min":"test_1_min"
+      },
+      {
+         "contentid":"test_2_contentid",
+         "contenttypeid":"test_2_contenttypeid",
+         "max":"test_2_max",
+         "min":"test_2_min"
+      },
+      {
+         "contentid":"test_3_contentid",
+         "contenttypeid":"test_3_contenttypeid",
+         "max":"test_3_max",
+         "min":"test_3_min"
+      }
+   ]
+}
